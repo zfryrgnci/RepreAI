@@ -1,0 +1,6 @@
+{
+  "name": "RepreAI",
+  "description": "Professional AI-powered B2B review response generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
